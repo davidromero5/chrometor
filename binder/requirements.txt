@@ -1,4 +1,6 @@
-geckodriver-autoinstaller
+chromedriver-autoinstaller
+
+requests-tor
 
 selenium
 
