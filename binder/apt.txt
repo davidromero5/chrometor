@@ -1,4 +1,5 @@
 chromium-browser
+chromium-chromedriver
 tor
 rclone
 vim
