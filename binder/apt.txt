@@ -4,3 +4,4 @@ tor
 rclone
 vim
 sudo
+snapd
